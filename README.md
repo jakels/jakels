@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @jakels I am a hobbyist software developer who dabbles in 3D rendering & modelling.
+- 👋 Hi, I’m @jakels I am a hobbyist software developer who dabbles in 3D rendering & modelling. Check out my portfolio at https://jakels.github.io/portfolio/
