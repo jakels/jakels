@@ -1,1 +1,2 @@
-- 👋 Hi, I’m @jakels I am a hobbyist software developer who dabbles in 3D rendering & modelling. Check out my portfolio at https://jakels.github.io/portfolio/
+University of Leeds 💪💪💪
+Owner of https://leedsuni.party, developer in Unity, C#, Python, Web (fullstack). Serviceable Blender user.
